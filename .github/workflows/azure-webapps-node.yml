@@ -1,4 +1,4 @@
-Open in GitHub Code spaces](https://github.com/code spaces/badge.svg)](URL)
+Open in GitHub Code spaces https://github.com/code spaces/badge.svg URL 
 https://github.com/codespaces/badge.svgCODE_OF_CONDUCT.md# This workflow will build and push a node.js application to an Azure Web App when a commit is pushed to your default branch.
 #
 # This workflow assumes you have already created the target Azure App Service web app.
